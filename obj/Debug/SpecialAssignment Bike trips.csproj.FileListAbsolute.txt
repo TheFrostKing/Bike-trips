@@ -1,0 +1,10 @@
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\bin\Debug\SpecialAssignment Bike trips.exe.config
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\bin\Debug\SpecialAssignment Bike trips.exe
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\bin\Debug\SpecialAssignment Bike trips.pdb
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment Bike trips.csproj.AssemblyReference.cache
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment_Bike_trips.Form1.resources
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment_Bike_trips.Properties.Resources.resources
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment Bike trips.csproj.GenerateResource.cache
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment Bike trips.csproj.CoreCompileInputs.cache
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment Bike trips.exe
+D:\Assignments ADO\Week 10-11\SpecialAssignment Bike trips\obj\Debug\SpecialAssignment Bike trips.pdb
